@@ -1,4 +1,4 @@
-var toggled = false;
+var toggled = true;
 var circle = $("#circle");
 
 $("#toggle").click(function () {
